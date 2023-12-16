@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Deck renders and matches snapshot matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    Loading...
+  </div>
+</DocumentFragment>
+`;
